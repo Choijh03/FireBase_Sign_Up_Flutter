@@ -2,15 +2,23 @@
 
 This is FireBase Sign_Up Tutorial Application built on Flutter 3.7
 
+-------------------------------------------------------------------------------------
+
 default user: jihun@gmail.com password: password
 
 New User added: test@gmail.com password: password
 
+-------------------------------------------------------------------------------------
+
 When sign up, password and confirm password need to match together in order to register.
+
+-------------------------------------------------------------------------------------
 
 Previous version List:
 
 https://github.com/Choijh03/FireBase_Login_Logout_Flutter
+
+-------------------------------------------------------------------------------------
 
 Android View:
 
